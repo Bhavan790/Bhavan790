@@ -38,7 +38,6 @@ class BhavanKumarRT:
     cgpa       = 8.65
     location   = "India 🇮🇳"
     email      = "bk2809231@gmail.com"
-    phone      = "+91 8838077864"
 
     skills = {
         "languages" : ["Python", "Java", "C"],
