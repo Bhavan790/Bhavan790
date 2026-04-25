@@ -53,7 +53,10 @@ class BhavanKumarRT:
         "🔐 Ethical Hacking Fundamentals",
         "🎯 CGPA 8.65 — Rajalakshmi Engineering College",
     ]
-
+## 🔨 Currently Building
+- 🛡️ Improving **ai-privacy-shield-pro** with multi-language support
+- 📊 Building a real-time stock sentiment analyzer using NLP
+- 💡 Open to: Internships, collaborations, open source
     open_to = "Internships & Collaborations 🤝"
 ```
 
