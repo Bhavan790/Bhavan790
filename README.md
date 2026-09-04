@@ -238,3 +238,12 @@ Python **keystroke-monitoring script** for cybersecurity awareness — demonstra
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1b2838,50:0d1b2a,100:0a0a0f&height=120&section=footer" />
   <sub>⚡ Built with precision by <b>Bhavan Kumar RT</b> — EEE Engineer who builds things that matter</sub>
 </div>
+
+
+<!-- STATS:START -->
+| 📦 Repos | ⭐ Stars | 👥 Followers | 🍴 Forks | 🏆 Top Language |
+|---|---|---|---|---|
+| 9 | 0 | 0 | 0 | Python |
+
+*Auto-updated by [github-ai-agent](https://github.com/Bhavan790/github-ai-agent) on 2026-09-04 16:24 UTC*
+<!-- STATS:END -->
